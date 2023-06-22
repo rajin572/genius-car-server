@@ -61,6 +61,7 @@ async function run() {
             console.log(result);
         });
 
+
         // Delete api data
 
         // delete only one data [i use it to delete only one selected data from the database(Order page order.js)]
